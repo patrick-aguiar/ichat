@@ -1,16 +1,3 @@
-# Medical Pager Chat App
+# iChat
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
-
-By the end of this video, you will be able to build any real-time chat application you can think of.
-
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+![Recording 2022-01-24 at 17 05 05](https://user-images.githubusercontent.com/57576190/150872744-21b34ade-ffa9-423c-ba7c-7d0b01ae6ba5.gif)
